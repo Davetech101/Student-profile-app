@@ -1,0 +1,16 @@
+.search {
+  display: block;
+  width: 94%;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  padding: 1rem;
+  margin: 0 auto;
+  color: #777;
+  font-family: inherit;
+}
+
+.search:focus {
+  outline: none;
+  border: none;
+  border-bottom: 2px solid #ccc;
+}
